@@ -1,2 +1,3 @@
 # Simple-nutrition
-First project.
+In this project you can add the food as you want and it will return the nutrition info in the excel sheet.<br>
+You can also do many functions visulize with graphs and many more....
