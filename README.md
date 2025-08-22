@@ -39,7 +39,7 @@ openpyxl is necessary for reading and writing Excel files (.xlsx).
 ## File Structure
 This is the required directory structure for the program to work correctly.
 \n
-Your_Project_Folder/ 
+Your_Project_Folder/<br>
 ├── Data.txt<br>
 ├── Nutrition.json<br>
 ├── Nutri.xlsx<br>
