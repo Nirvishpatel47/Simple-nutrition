@@ -38,11 +38,11 @@ openpyxl is necessary for reading and writing Excel files (.xlsx).
 
 ## File Structure
 This is the required directory structure for the program to work correctly.
-
-Your_Project_Folder/
-├── Data.txt
-├── Nutrition.json
-├── Nutri.xlsx
+\n
+Your_Project_Folder/\n
+├── Data.txt\n
+├── Nutrition.json\n
+├── Nutri.xlsx\n
 └── Your_Python_Script_Name.py
 Data.txt: This plain text file stores your user information (name, weight, height, age). The script automatically creates it if it doesn't exist.
 
